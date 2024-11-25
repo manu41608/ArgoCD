@@ -48,6 +48,7 @@ https://argo-cd.readthedocs.io/en/stable/
 ---
 
 ### Architecture of ArgoCD
+![image](https://github.com/user-attachments/assets/78727c91-24a6-4cdc-9ec9-136b44940499)
 
 #### Key Components:
 1. **API Server**:
