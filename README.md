@@ -27,6 +27,7 @@ GitOps was introduced to address these challenges by:
 ### What is ArgoCD?
 https://argo-cd.readthedocs.io/en/stable/
 **ArgoCD** is a declarative, GitOps continuous delivery tool for Kubernetes. It manages Kubernetes clusters by synchronizing the desired state of resources (as defined in Git) with the actual state of the cluster.
+![image](https://github.com/user-attachments/assets/c1569de1-a740-4c03-b758-6b4353999897)
 
 #### Key Features of ArgoCD:
 1. **Git Integration**: Continuously monitors Git repositories for changes.
