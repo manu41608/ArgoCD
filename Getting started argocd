@@ -1,5 +1,5 @@
 https://argo-cd.readthedocs.io/en/stable/getting_started/
-1. Prerequisites
+#1. Prerequisites
 Kubernetes Cluster: Ensure you have a running Kubernetes cluster (local or cloud-based).
 Tools like Minikube, Kind, or a managed Kubernetes service (e.g., AKS, EKS, GKE) can be used.
 kubectl: Install and configure kubectl to interact with your cluster.
